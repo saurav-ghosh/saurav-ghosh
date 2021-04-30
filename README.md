@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # I am Saurav Ghosh
+### MERN Stack Developer
 
 Here are some of my activities:
 
