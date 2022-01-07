@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEObHLSrseH5A/profile-displaybackgroundimage-shrink_200_800/0/1632116974891?e=1646870400&v=beta&t=trHFEuuUGBvD9f_J6nqqfTmf3lZF7K-haJWqIO4D3_8" height="150px" width="580px">
-</p>
-
 <h1 align="center">Hi 👋, I'm Saurav Ghosh</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
