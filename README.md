@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Skills & Experiance:
 ✅ JavaScript<br>
-✅ React / Node / Express / MongoDB<br>
+✅ React/ Redux / Node / Express / MongoDB<br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind<br>
 ✅ Photoshop<br>
 
