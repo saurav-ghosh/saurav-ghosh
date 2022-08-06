@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 
-🌱  I’m currently learning **JavaScript & React & Redux**<br>
+🌱  I’m currently learning **React & React-Redux**<br>
 👨‍💻  All of my projects are available at **[https://ghoshsaurav.netlify.app/](https://ghoshsaurav.netlify.app/)**<br>
 📫  How to reach me **saurav.ghosh378@gmail.com**<br>
 
