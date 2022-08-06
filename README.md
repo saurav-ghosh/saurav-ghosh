@@ -8,9 +8,9 @@
 
 ## 👨‍💻 Skills & Experiance:
 ✅ JavaScript<br>
-✅ React/ Redux / Node / Express / MongoDB<br>
-✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind<br>
-✅ Photoshop<br>
+✅ React / Redux / Node / Express / MongoDB<br>
+✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind / Material-UI<br>
+✅ Photoshop / Figma<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurav-ghosh&theme=tokyonight&show_icons=true)
 
