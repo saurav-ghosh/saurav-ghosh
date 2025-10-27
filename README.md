@@ -1,18 +1,40 @@
 <h1 align="center">Hi 👋, I'm Saurav Ghosh</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">WordPress Theme Developer | Frontend Developer</h3>
 
+🚀 I build fast, scalable & fully custom WordPress themes using modern development workflows (Custom Code, Tailwind, Bootstrap, PHP, ACF-Free Development)<br>
+🎯 Currently focusing on **WordPress Custom Theme & Plugin Development**<br>
+🌍 Targeting international clients for WordPress Development Services<br>
+📌 Skilled in both no-code builders & code-based WordPress development<br>
 
-🌱  I’m currently learning **React & React-Redux**<br>
-👨‍💻  All of my projects are available at **[https://ghoshsaurav.netlify.app/](https://ghoshsaurav.netlify.app/)**<br>
-📫  How to reach me **saurav.ghosh378@gmail.com**<br>
+---
 
-## 👨‍💻 Skills & Experiance:
-✅ JavaScript<br>
-✅ React / Redux / Node / Express / MongoDB<br>
-✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind / Material-UI<br>
-✅ Photoshop / Figma<br>
+### 🛠️ Tech Stack & Skills
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurav-ghosh&theme=tokyonight&show_icons=true)
+#### ⭐ WordPress & Back-End
+- WordPress Theme & Plugin Development
+- Elementor / Gutenberg / All major builders (Free & Pro)
+- WooCommerce Customization
+- Custom Post Types, Hooks, REST API
+- PHP, MySQL
+- Speed Optimization, Web Hosting & Deployment
 
-## ☕ Connect with me:
-[<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/sauravghosh378/) 
+#### 🎨 Front-End Development
+- HTML5 / CSS3 / Tailwind / Bootstrap
+- JavaScript (ES6+) / TypeScript (Basic)
+- React
+- Responsive UI Design
+
+#### 🧰 Tools & Workflow
+- Git & GitHub
+- Local by Flywheel / XAMPP / LAMP
+- Figma / Photoshop
+
+---
+
+### 📬 Let’s Connect
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' />](https://www.linkedin.com/in/sauravghosh378/)
+[<img src='https://img.shields.io/badge/Email-Contact_Me-critical?style=for-the-badge&logo=gmail&logoColor=white' alt='email' />](mailto:saurav.ghosh378@gmail.com)
+
+---
+
+💡 _Always learning. Always building. Helping businesses grow through better websites._
